@@ -1,0 +1,5 @@
+overpy
+uvicorn[standard]
+fastapi
+
+
